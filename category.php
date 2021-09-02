@@ -23,7 +23,7 @@ get_header(); ?>
 			<?php endwhile; ?>
 		<?php else: ?>
 			<article>
-				<h4>No posts found!</h4>
+				<h4>No posts found! Why?</h4>
 			</article>
 		<?php endif; ?>
 	</div>
