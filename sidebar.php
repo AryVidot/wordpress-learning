@@ -7,6 +7,7 @@
  * @since Skillcrush Starter 2.0
  */
 ?>
+
 <div id="sidebar">
 	<?php if ( has_nav_menu( 'secondary' ) ) : ?>
 	<nav role="navigation" class="navigation site-navigation secondary-navigation">

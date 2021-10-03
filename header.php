@@ -23,7 +23,7 @@
 <body <?php body_class(); ?>>
 	<div id="page" class="hfeed site">
 		<header class="page-header container">
-			<a href="<?php echo site_url(); ?>" class="top-logo">
+			<a href="<?php 	echo site_url(); ?>" class="top-logo">
 				<span class="title"><?php bloginfo('name'); ?></span>
 				<span class="sub-title"><?php bloginfo('description'); ?></span>
 			</a>
